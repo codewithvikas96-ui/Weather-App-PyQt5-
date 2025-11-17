@@ -27,4 +27,7 @@ A sleek and modern Weather Application built with Python (PyQt5) and powered by 
 ---
 
 ## 🚀 Installation & Usage
-###      1. Clone the repository
+### 1. Clone the repository
+```bash
+git clone https://github.com/codewithvikas96-ui/Weather-App-PyQt5-.git
+```
