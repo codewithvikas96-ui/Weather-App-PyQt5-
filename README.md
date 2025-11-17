@@ -27,4 +27,4 @@ A sleek and modern Weather Application built with Python (PyQt5) and powered by 
 ---
 
 ## 🚀 Installation & Usage
-### 1.Clone the repository
+###      1. Clone the repository
