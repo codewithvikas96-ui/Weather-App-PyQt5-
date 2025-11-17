@@ -61,3 +61,24 @@ python src/weather-app.py
 | .gitignore | Git ignore rules |
 
 ---
+
+## 🤝 Contributing
+Contributions are welcome!
+
+- Fork the repo
+- Create a new branch (feature-xyz)
+- Commit changes
+- Open a Pull Request
+
+---
+
+## 📜 License
+This project is licensed under the MIT License – feel free to use and modify it.
+
+---
+
+## ⭐ Support
+If you like this project, don’t forget to star the repo ⭐ and share it with others!
+
+---
+## Made with 💛 by Vikas Ajay Vishwakarma
