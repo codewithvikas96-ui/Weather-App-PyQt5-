@@ -17,3 +17,14 @@ A sleek and modern Weather Application built with Python (PyQt5) and powered by 
 <img width="382" height="541" alt="Weather APP GUI" src="https://github.com/user-attachments/assets/2bf1fc5f-6bca-4710-ad37-d938bc535ba1" />
 
 ---
+
+## 🛠️ Tech Stack
+- Python 3.x
+- PyQt5 – GUI framework
+- Requests – For API calls
+- OpenWeather API – Weather data provider
+
+---
+
+## 🚀 Installation & Usage
+### 1.Clone the repository
