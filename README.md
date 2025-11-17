@@ -27,7 +27,27 @@ A sleek and modern Weather Application built with Python (PyQt5) and powered by 
 ---
 
 ## 🚀 Installation & Usage
-### 1. Clone the repository
+1. Clone the repository
 ```bash
 git clone https://github.com/codewithvikas96-ui/Weather-App-PyQt5-.git
 ```
+2. Navigate inside the project folder
+```bash
+cd weather-app
+```
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+4. Get Your API key
+ - Sign up at OpenWeather
+ - Copy your API key and replace it in get_weather():
+   ```bash
+   api_key = "YOUR_API_KEY"
+   ```
+5. Run the app
+``bash
+python src/weather-app.py
+``
+
+---
