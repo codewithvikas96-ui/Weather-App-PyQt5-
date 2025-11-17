@@ -51,3 +51,12 @@ python src/weather-app.py
 ```
 
 ---
+
+## 📂 Project Structure
+Weather-App-PyQt5/
+│── src/weather-app.py        # Main application code
+│── requirements.txt      # Dependencies
+│── README.md             # Project documentation
+|── .gitignore            # Git ignore rules
+
+---
