@@ -46,8 +46,8 @@ pip install -r requirements.txt
    api_key = "YOUR_API_KEY"
    ```
 5. Run the app
-``bash
+```bash
 python src/weather-app.py
-``
+```
 
 ---
